@@ -1,5 +1,9 @@
 # OLIGO-EMOJIS
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<your-username>/oligo-emojis/main/Oligo_Emojis_Logo.png" alt="Oligo-emojis logo" width="200"/>
+</p>
+
 Oligo-emojis is a lightweight, fun Python emoji utility library.
 
 Author: OligoTech
