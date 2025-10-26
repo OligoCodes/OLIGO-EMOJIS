@@ -62,7 +62,7 @@ Compatibility helpers (keeps older API names):
 
 ## Categories included
 
-Smileys, People, Animals, Foods, Drinks, Activities, Travel, Places, Objects, Symbols, Flags
+Smileys 😂, People 🧑‍💻, Animals 🦎, Foods 🍝, Drinks 🧋, Activities 🚴‍♂️, Travel ✈️, Places 🏞, Objects 🏆, Symbols ⚠️, Flags 🇬🇭
 
 ## Notes
 
