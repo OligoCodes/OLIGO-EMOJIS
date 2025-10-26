@@ -1,6 +1,12 @@
 # OLIGO-EMOJIS
 
 <p align="center">
+  <a href="https://pypi.org/project/oligo-emojis/"><img src="https://badge.fury.io/py/oligo-emojis.svg" alt="PyPI version"></a>
+  <a href="https://pepy.tech/project/oligo-emojis"><img src="https://static.pepy.tech/badge/oligo-emojis" alt="Downloads"></a>
+  <a href="https://github.com/OligoCodes/OLIGO-EMOJIS/stargazers"><img src="https://img.shields.io/github/stars/OligoCodes/OLIGO-EMOJIS.svg" alt="Stars"></a>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/OligoCodes/oligo-emojis/main/Oligo_Emojis_Logo.png" alt="Oligo-emojis logo" width="333"/>
 </p>
 
