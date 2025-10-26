@@ -1,15 +1,15 @@
 # OLIGO-EMOJIS
 
 <p align="center">
-  <a href="https://pypi.org/project/oligo-emojis/"><img src="https://badge.fury.io/py/oligo-emojis.svg" alt="PyPI version"></a>
   <a href="https://pypi.org/project/oligo-emojis/">
-    <img src="https://img.shields.io/pypi/dm/oligo-emojis?color=blue&label=downloads&style=flat-square" alt="Downloads">
+    <img src="https://badge.fury.io/py/oligo-emojis.svg" alt="PyPI version">
   </a>
-  <a href="https://github.com/OligoCodes/OLIGO-EMOJIS/stargazers"><img src="https://img.shields.io/github/stars/OligoCodes/OLIGO-EMOJIS.svg" alt="Stars"></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OligoCodes/oligo-emojis/main/Oligo_Emojis_Logo.png" alt="Oligo-emojis logo" width="333"/>
+  <a href="https://pypi.org/project/oligo-emojis/">
+    <img src="https://img.shields.io/badge/downloads-coming%20soon-blue?style=flat-square" alt="Downloads">
+  </a>
+  <a href="https://github.com/OligoCodes/OLIGO-EMOJIS/stargazers">
+    <img src="https://img.shields.io/github/stars/OligoCodes/OLIGO-EMOJIS.svg?style=flat-square" alt="GitHub stars">
+  </a>
 </p>
 
 Oligo-emojis is a lightweight, fun Python emoji utility library.
