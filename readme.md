@@ -2,7 +2,9 @@
 
 <p align="center">
   <a href="https://pypi.org/project/oligo-emojis/"><img src="https://badge.fury.io/py/oligo-emojis.svg" alt="PyPI version"></a>
-  <a href="https://pepy.tech/project/oligo-emojis"><img src="https://static.pepy.tech/badge/oligo-emojis" alt="Downloads"></a>
+  <a href="https://pypi.org/project/oligo-emojis/">
+    <img src="https://img.shields.io/pypi/dm/oligo-emojis?color=blue&label=downloads&style=flat-square" alt="Downloads">
+  </a>
   <a href="https://github.com/OligoCodes/OLIGO-EMOJIS/stargazers"><img src="https://img.shields.io/github/stars/OligoCodes/OLIGO-EMOJIS.svg" alt="Stars"></a>
 </p>
 
