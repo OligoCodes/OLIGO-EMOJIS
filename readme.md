@@ -18,6 +18,12 @@ This package provides categorized emoji lists and convenient helpers to retrieve
 
 ## Quick demo
 
+## 🚀 Installation
+
+```bash
+pip install oligo-emojis
+```
+
 ```python
 from oligoemojis import Emojis
 
@@ -58,3 +64,12 @@ Smileys, People, Animals, Foods, Drinks, Activities, Travel, Places, Objects, Sy
 - It is safe to call `random` or `get` with small counts; invalid categories return a helpful message.
 
 If you want additional emoji sets or suggestions, open an issue or submit a PR.
+
+---
+
+## 🌐 Links
+
+- 📦 [PyPI](https://pypi.org/project/oligo-emojis/)
+- 💻 [GitHub](https://github.com/OligoCodes/OLIGO-EMOJIS)
+- 🪄 Author: **OligoTech**
+
