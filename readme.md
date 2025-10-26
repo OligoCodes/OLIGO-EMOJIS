@@ -1,7 +1,7 @@
 # OLIGO-EMOJIS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OligoCodes/oligo-emojis/main/Oligo_Emojis_Logo.png" alt="Oligo-emojis logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/OligoCodes/oligo-emojis/main/Oligo_Emojis_Logo.png" alt="Oligo-emojis logo" width="333"/>
 </p>
 
 Oligo-emojis is a lightweight, fun Python emoji utility library.
