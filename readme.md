@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OligoCodes/OLIGO-EMOJIS/main/Oligo_Emojis_Logo.png" alt="Oligo-emojis logo" width="333"/>
+</p>
+
 Oligo-emojis is a lightweight, fun Python emoji utility library.
 
 Author: OligoTech
