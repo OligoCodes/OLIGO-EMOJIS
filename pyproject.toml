@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oligo-emojis"
+version = "0.1.0"
+description = "Oligo-emojis — a mini, dependency-free emoji helper library (author: OligoTech)"
+readme = "readme.md"
+requires-python = ">=3.8"
+authors = [{name = "OligoTech"}]
+license = {text = "MIT"}
+keywords = ["emoji","emojis","oligo"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent"
+]
+
+# Optional extras (leave or remove)
+[project.optional-dependencies]
+full = ["emoji>=2.0"]
